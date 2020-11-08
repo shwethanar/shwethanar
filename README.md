@@ -1,12 +1,6 @@
 
-<img src="https://unsplash.com/photos/8Myh76_3M2U"/>
 
-<img src="https://unsplash.com/photos/eGD6kqbHG98"/>
-
-<img src="https://pasteboard.co/JzrVwdx.jpg"/>
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
-
-### Hi there 👋
+![alt text](https://github.com/finallyshwetha/finallyshwetha/blob/main/IMG_20180113_103052_451.jpg)
 
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
 <h3 align="center">A Java developer</h3>
