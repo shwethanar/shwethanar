@@ -21,7 +21,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=finallyshwetha&show_icons=true&locale=en" alt="finallyshwetha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shwethanar&show_icons=true&locale=en" alt="finallyshwetha" /></p>
 
 
 
