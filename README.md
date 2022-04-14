@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
 <h3 align="center">A Backend developer with expertise in Java / Integration framework</h3>
 
-- 🔭 😀 **WORK** - Professionally, I am developing APIs using Microservices , AWS and Integration frameworks like Apache Camel
+- 🔭 😀 **WORK** - Professionally, I am developing APIs using Microservices , Cloud technologies and Integration frameworks.
 - 🌱 On a typical day, I design and develop enterprise applications along with fixing security issues , deploy code /run pipelines in Cloud using AWS / Azure.
 - 📫 How to reach me **shwetha.hey@gmail.com**  
 
