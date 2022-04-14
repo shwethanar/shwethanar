@@ -3,13 +3,11 @@
 ![alt text](https://github.com/finallyshwetha/finallyshwetha/blob/main/IMG_20180113_103052_451.jpg)
 
 <h1 align="center">Hi 👋, I'm Shwetha</h1>
-<h3 align="center">A Java developer</h3>
+<h3 align="center">A Backend developer with expertise in Java / Integration framework</h3>
 
-- 🔭 I’m currently working on Java projects 😀 **work**
+- 🔭 😀 **WORK** - Professionally, I am developing APIs using Microservices , AWS and Integration frameworks like Apache Camel
 
-- 🌱 I’m currently learning **Springboot Framework**
-
-- 📫 How to reach me **finallyshwetha@gmail.com**
+- 📫 How to reach me **shwetha.hey@gmail.com** 🌱 
 
 
 
